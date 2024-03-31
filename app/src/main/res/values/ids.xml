@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="view_pager" type="id" />
+    <item name="nav_home" type="id" />
+    <item name="action_add" type="id" />
+    <item name="action_settings" type="id" />
+    <item name="action_logout" type="id" />
+    <item name="nav_profile" type="id" />
+    <item name="nav_notes" type="id" />
+    <item name="navigation_home" type="id" />
+    <item name="fragment_container" type="id" />
+</resources>

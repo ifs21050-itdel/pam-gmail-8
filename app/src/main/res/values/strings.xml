@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PAMTantangan8</string>
+    <string name="gmail_title">Gmail</string>
+    <string name="menu_icon_description">Menu</string>
+    <string name="email_sender">Sender:</string>
+    <string name="email_subject">Subject:</string>
+    <string name="email_time">Time:</string>
+    <string name="search_icon_description">search</string>
+    <string name="subject">Subject</string>
+    <string name="sender">Sender</string>
+    <string name="content">Content</string>
+    <string name="icloud">iCloud</string>
+    <string name="tim_icloud">tim iCloud</string>
+    <!-- Add more strings here as needed -->
+</resources>

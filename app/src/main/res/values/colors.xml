@@ -1,0 +1,12 @@
+<resources>
+    <color name="gmail_primary">#F8F8FF</color> <!-- Putih -->
+    <color name="gmail_primary_dark">#0d47a1</color> <!-- Biru tua -->
+    <color name="gmail_primary_light">#D6E3F8</color> <!-- Biru muda -->
+    <color name="gmail_accent">#EA4335</color> <!-- Merah -->
+    <color name="gmail_background">#FFFFFF</color> <!-- Putih -->
+    <color name="gmail_text">#A9A9A9</color> <!-- abu abu -->
+    <color name="gmail_tint">#FFFFFF</color>
+    <color name="gmail_icon">#A9A9A9</color>
+    <color name="white" />
+    <!-- Anda dapat menambahkan warna tambahan sesuai kebutuhan -->
+</resources>
